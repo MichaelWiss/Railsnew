@@ -1,28 +1,32 @@
-== README
+== Rails New
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This template provide a great starting point for certain Rails applications that require most of the following features:
 
-Things you may want to cover:
+* Acceptance Testing & Unit Testing with Capybara & Rspec, while supporting Javascritp
 
-* Ruby version
+* A basic User schema
 
-* System dependencies
+* A Devise powered login system
 
-* Configuration
+* Zurb Foundation Styling
 
-* Database creation
+* Backbone.js
 
-* Database initialization
+* Other helpful gems
 
-* How to run the test suite
+===Get Started
+* Create a database.yml file
 
-* Services (job queues, cache servers, search engines, etc.)
+* Run bundle install
 
-* Deployment instructions
+* Run rake db:create
 
-* ...
+* Run rake db:migrate
 
+* Run rails s
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+===Credit
+Ilias Tsangaris
+
+===License
+Creative Commons
