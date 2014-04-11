@@ -2,7 +2,7 @@
 
 This template provide a great starting point for certain Rails applications that require most of the following features:
 
-* Acceptance Testing & Unit Testing with Capybara & Rspec, while supporting Javascritp
+* Acceptance Testing & Unit Testing with Capybara & Rspec, while supporting Javascript
 
 * A basic User schema
 
